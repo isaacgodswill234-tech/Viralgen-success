@@ -1,0 +1,8 @@
+{
+  "name": "ViralGen AI - Automated Social Media Monetizer",
+  "description": "An AI-powered platform that automatically generates high-engagement short-form videos for TikTok, YouTube Shorts, and Facebook Reels based on trending niches.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
